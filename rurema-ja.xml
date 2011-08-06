@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<ShortName>るりまサーチ</ShortName>
+<Description>るりまサーチ</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16">data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANkSURBVDiNbdPba5t1HMfx9+/J0yRNk6anpWdLtWXtaOeYOutYia7WCxkM52nYUcWhXgxRGY4JIt5KcV7owAgbuDmKVQo67ZWloLJZl3XDHpx1LbZNeliyLIfmeZrn9POiVkX8/gEv+Hw+fIWUkv+5VuColUolbW09YGuaKRSXS3rdIV9D06fAFUACiP8A/esT4yetW6vNoqB7vK07CtnpSe/K+bP6bY9fX7karQi0btc6Xn3t1+YDB3uADFJKpJTtVi47s3TuE+fyrkZ5uc4lrzaocvGVZ6VjFMz54S8Ko/3Pya97uuXQve3ys842+87iQkRKiQLsz85Mfv9z/xPt1994WWTjMQyhIBrvxjQNkJLq7S2WvrY8n7w2QToeowDK7LffdAEoi8ODF8ce31u1+sMoDmA4kg3DIjN/Ez2TIR/9MR8feMcXWp1rrA+Hb+QdydpyjGwi4QNQfjrW7zO0PA5gC7D/QgqOpPJQn/nLsReDqYU46USySI6PtbWGu28YXp9dEgqVAai2baMACAFSgtjsN7hzN6UPhVM6ruqS2iaqHthnqOWVJl5vXcuRF6zSpns0ANURW4P8g6h+P50DH1s2eMsP9TnpiaiyePErd+pWwp03Te57/YSs3b0nDqAWHPAo/0IUhfsjF2x3IaXmpm6mJz94L+irqcNIp5GGgb+2Dmc1IRS4DaDoNmw44Ahwbwux79ywJScvuZZOvYs+PlYd6Og0ErEYWpEbz11NtB3ukysjIyDE0ibggG5DqOcA+wdHjMTZiDoXOcNa9DcWzg956x/uXbOEIJfJYLiKpJPJCV9NDYrHMwugeuqbCJ98m+aubuP688+4c3OzIOXfiQLeYt0SCqLYT8fTh/njyyEa2julp6JiAkB5afTS8o6DT6ZmPx+UYs/eXMWRo0nR0GhrhoFmGGAWfBaCruNv6tGPBoRQBdtaWzSX2z0FoKZPv1WXd1XOzZ65UGGZmkfX8oHqR3plebg351aUDSuRqOp9/0Pz2ulTxbZp4ChQUhbUgdTmCleiTsLfohfSaYoba9jI54mNfSfMsdGAgRJ48PgJ6cxMi2x8ESkluXQSb0mxtvV96p3EeiSVij/l4JDPpHEFgzjZHEWlZbQ9+hi5SESoBZ3OnbuY+n2a9WQSxeu1toA/AY53rtb+tv1rAAAAAElFTkSuQmCC</Image>
+<Url type="text/html" method="GET" template="http://doc.ruby-lang.org/ja/search/query:{searchTerms}/">
+</Url>
+<SearchForm>http://doc.ruby-lang.org/ja/search/</SearchForm>
+</SearchPlugin>
