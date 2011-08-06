@@ -1,3 +1,19 @@
 Mozilla Firefox Search Plugin for RuReMa (Ruby Reference Manual in Japanese)
 
-るりま用 Mozilla Firefox 検索プラグインです.(るりまはプログラミング言語 Ruby の日本語ドキュメントのプロジェクトです)
+== Description(説明)
+
+るりま用 Mozilla Firefox 検索プラグインです.
+(「るりま」はプログラミング言語 Ruby の日本語ドキュメントのプロジェクトです.)
+rurema-ja.xml は個人的に作成したものです. 「るりま」の公式なものではありません.
+
+
+== Installation(インストール)
+
+rurema-ja.xml を Firefox の検索プラグインのディレクトリに置いてください. 
+例えば以下の場所です.
+
+- Ubuntu Linux 11.04 & Firefox 5.0 なら
+   - /usr/lib/firefox-addons/searchplugins/ja/
+
+- Windows XP & Firefox 5.0 なら
+   - C:\Program Files\Mozilla Firefox\searchplugins
